@@ -1,4 +1,4 @@
-[Header1](#header1-a-name"header1"a) [Header2](#header2-a-name"header2"a) [Header3](#header3-a-name"header3"a)
+[Pictures](#header1) [Header2](#header2) [Header3](#header3)
 
 # HEADER1 <a name="header1"></a>
 ![Stars](./Pictures/aldebaran-s-uXchDIKs4qI-unsplash.jpg)
